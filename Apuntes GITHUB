@@ -1,1 +1,22 @@
+*¿QUÉ ES GITHUB?*
+Git es un sistema de control de versiones (VCS) distribuido, lo que significa que es una herramienta útil para ratrear fácilmente los cambios en mi código, colaborar y compartir. Git permite rastrear los cambios que se realizan en el proyecto facilitando el trabajo en grupo.
+
+*FLUJO DE GITHUB*
+  Repositorios: es el lugar donde se realiza el trabajo del proyecto. 
+  Contiene todos los archivos y el historial de revisiones del          proyecto.
+
+  Clonación: cuando se crea un repositorio con Github, se almacena de   forma remota en la nube. Se puede clonar un repositorio para          sincronizar los datos de la computadora y Git facilitando así la      solventación de problemas
+
+  Committing and pushing: son la forma en la que se puede agregar       cambios realizados en la máquina local al repositorio remoto en       Github
+
+*TÉRMINOS GITHUB*
+  Repositorios: los ya mencionados repositorios, son el lugar donde     se lleva a cabo todo el trabajo del proyecto. Para poder navehar      fácilmente entre los diferentes repositorios se usa el panel de       Github. A estos se les puede añadir además un archivo README para     mostrar a los usuarios las diferentes funciones del programa
+
+  Ramas: las ramas se pueden usar para ailar el trabajo que aún no se   desea fusionar con el proyecto principal. A menudo se puede crear     una rama a partir de la rama predeterminada del repositorio 'main'    esto crea una copia del trabajo para poder experimentar con ella
+
+  Forks: son bifurcaciones que permiten copiar un repositorio,          frecuentemente usados cuando se participa en un proyecto ajeno.       Todo esto sin modificar el proyecto original
+
+  Solicitudes de incorporación de cambios: al trabajar con ramas se     puede usa una solicitud de incorporación de cambios para informar a   otros sobre los cambios deseados además de recibir feedback de        otros usuarios 
+
+  Incidencias: son una forma de realizar un seguimiento de las          mejoras,tareas u errores del trabajo Github. Sirven para poder        llevar a cabo un seguimiento de todas las tareas en las que se        desea trabajar 
 
